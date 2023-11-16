@@ -1,6 +1,8 @@
 {
-  "test":[{
-    "bool":"True"
+  "test":[
+    {
+      "id": 1,
+      "bool": "True"
     }
   ]
 }
