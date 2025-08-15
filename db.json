@@ -1,8 +1,8 @@
 {
-  "test":[
+  "result": [
     {
-      "id": 0,
-      "bool": "True"
+      "st": true,
+      "prod": true
     }
   ]
 }
